@@ -1,0 +1,5 @@
+# Ignore OS X Finder files
+.DS_Store
+
+# Ignore icon images
+alfred_faces_icon.png
