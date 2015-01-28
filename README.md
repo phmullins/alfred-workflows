@@ -1,6 +1,6 @@
 # Introduction
 
-A collection of interesting [Alfred][Alfred] workflows that I have found useful over the years.
+A collection of interesting [Alfred](http://www.alfredapp.com/) workflows that I have found useful over the years.
 
 ## Workflows
 
