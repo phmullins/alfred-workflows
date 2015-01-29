@@ -4,6 +4,7 @@ A collection of interesting [Alfred](http://www.alfredapp.com/) workflows that I
 
 ## Workflows
 
+- [DEVONthink Search for Alfred 2](https://github.com/markokaestner/devonthink-document-search)
 
 
 ## Author
