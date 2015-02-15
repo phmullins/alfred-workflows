@@ -15,9 +15,7 @@ Type `of` in Alfred followed by the task you would like to create.
 
 Example:
 
-<center>!["OmniFocus Workflow"](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_omnifocus_ss.png)</center>
-
-`of Call Alfred #tomorrow at 12pm`
+<center>!["OmniFocus Workflow"](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.omnifocus/assets/alfred_omnifocus_ss.png)</center>
 
 Modifiers:
 
