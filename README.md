@@ -1,11 +1,11 @@
 # Introduction
 
-A collection of interesting [Alfred](http://www.alfredapp.com/) workflows that I have found useful over the years.
+A collection of [Alfred](http://www.alfredapp.com/) workflows that I have created over the years.
 
 ## Workflows
 
-- [DEVONthink Search for Alfred 2](https://github.com/markokaestner/devonthink-document-search)
-
+- [IBM Search](https://github.com/phmullins/devonthink-document-search)
+- [OmniFocus](https://github.com/phmullins/devonthink-document-search)
 
 ## Author
 Created by Patrick H. Mullins [@phmullins ](https://twitter.com/phmullins)
