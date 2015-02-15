@@ -5,10 +5,10 @@ that lets employees search for information (people, departments, etc.) using IBM
 
 Example:
 
-!["IBM Searches Workflow - Bluepages](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_bluepages_ss.png)
-!["IBM Searches Workflow - Connections](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_connections_ss.png)
-!["IBM Searches Workflow - w3 Intranet](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_w3w_ss.png)
-!["IBM Searches Workflow - Faces](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_faces_ss.png)
+!["IBM Searches Workflow - Bluepages](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.ibmsearch/assets/alfred_bluepages_ss.png)
+!["IBM Searches Workflow - Connections](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.ibmsearch/assets/alfred_connections_ss.png)
+!["IBM Searches Workflow - w3 Intranet](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.ibmsearch/assets/alfred_w3w_ss.png)
+!["IBM Searches Workflow - Faces](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.ibmsearch/assets/alfred_faces_ss.png)
 
 ## Requirements
 
