@@ -4,8 +4,8 @@ A collection of [Alfred](http://www.alfredapp.com/) workflows that I have create
 
 ## Workflows
 
-- [IBM Search](https://github.com/phmullins/devonthink-document-search)
-- [OmniFocus](https://github.com/phmullins/devonthink-document-search)
+- [IBM Search](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch)
+- [OmniFocus](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus)
 
 ## Author
 Created by Patrick H. Mullins [@phmullins ](https://twitter.com/phmullins)

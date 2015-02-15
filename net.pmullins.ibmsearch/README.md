@@ -5,15 +5,16 @@ that lets employees search for information (people, departments, etc.) using IBM
 
 Example:
 
-!["IBM Searches Workflow - Bluepages](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_bluepages_ss.png)
-!["IBM Searches Workflow - Connections](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_connections_ss.png)
-!["IBM Searches Workflow - w3 Intranet](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_w3w_ss.png)
-!["IBM Searches Workflow - Faces](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_faces_ss.png)
+!["IBM Searches Workflow - Bluepages](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_bluepages_ss.png)
+!["IBM Searches Workflow - Connections](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_connections_ss.png)
+!["IBM Searches Workflow - w3 Intranet](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_w3w_ss.png)
+!["IBM Searches Workflow - Faces](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch/assets/alfred_faces_ss.png)
 
 ## Requirements
 
 - [Alfred](http://www.alfredapp.com/)
 - The Alfred [Powerpack](http://www.alfredapp.com/powerpack/)
+- The [net.pmullins.ibmsearch](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch) workflow
 - A valid VPN connection to the internal IBM network
 
 ## Usage

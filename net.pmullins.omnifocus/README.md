@@ -3,36 +3,30 @@
 [OmniFocus](https://www.omnigroup.com/omnifocus) is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.apple.com/osx/)
 that makes creating new OmniFocus tasks easy.
 
-Example:
-
-!["OmniFocus Workflow"](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_bluepages_ss.png)
-
 ## Requirements
 
 - [Alfred](http://www.alfredapp.com/)
 - Alfred [Powerpack](http://www.alfredapp.com/powerpack/)
-- net.pmullins.omnifocus.alfred Workflow
+- [net.pmullins.omnifocus.alfred](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus) workflow
 
 ## Usage
 
-Type `of` in Alfred followed by the task you would like to create. You can specify a due date by using the `#` modifier. 
+Type `of` in Alfred followed by the task you would like to create.
 
 Example:
 
+!["OmniFocus Workflow"](https://github.com/phmullins/IBM-Search/blob/master/assets/alfred_omnifocus_ss.png)
+
 `of Call Alfred #tomorrow at 12pm`
 
-A few clarifications/changes. 
- 
-The "!" syntax is actually used for Flagging an Action.
-So if you just enter text as in "todo myaction" it will NOT be flagged
-But if you enter "todo myaction!" it will be flagged.
- 
-Also, using one instance of # will create a DUE date, while two instances will create a START DATE and then a DUE Date
-So "myaction #today" creates a due date of today
-But "myaction #today #tomorrow" creates a start date of today and a due date of tomorrow.
- 
-For clarity, I changed my subtext to:
-Flag! @Context ::Project #Due (#Start #Due) $Duration //Note
+Modifiers:
+
+- `#` = indicates the Due date. One instance of `#` indicates the creation date, while two will create a start date and a due date. 
+- `!` = used for flagging an action. Make sure to place the `!` at the end of the item being flagged.
+- `@` = the context of the item being added.
+- `::` = the project the item should be associated with.
+- `$` = the duration of the task
+- `//` = a note to be added with the task
 
 ## Author
 Created by Patrick H. Mullins [@phmullins ](https://twitter.com/phmullins)
