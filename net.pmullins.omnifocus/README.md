@@ -15,7 +15,7 @@ Type `of` in Alfred followed by the task you would like to create.
 
 Example:
 
-<center>!["OmniFocus Workflow"](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.omnifocus/assets/alfred_omnifocus_ss.png)</center>
+!["OmniFocus Workflow"](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.omnifocus/assets/alfred_omnifocus_ss.png)
 
 Modifiers:
 
