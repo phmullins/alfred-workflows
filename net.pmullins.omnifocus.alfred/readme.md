@@ -1,16 +1,16 @@
-# OmniFocus
+### OmniFocus
 
 [OmniFocus](https://www.omnigroup.com/omnifocus) is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.apple.com/osx/)
 that makes creating new OmniFocus tasks easy. This is a modified version of the [workflow](http://www.alfredforum.com/topic/1041-create-new-task-in-omnifocus-inbox/?hl=omnifocus) 
 originally found on the Afred forums. Thank you CapnAverage, Ryan M, and Orky for getting things started!
 
-## Requirements
+### Requirements
 
 - [Alfred](http://www.alfredapp.com/)
 - Alfred [Powerpack](http://www.alfredapp.com/powerpack/)
 - [net.pmullins.omnifocus.alfred](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus) workflow
 
-## Usage
+### Usage
 
 Type `of` in Alfred followed by the task you would like to create.
 
@@ -27,21 +27,8 @@ Modifiers:
 - `$` = the duration of the task
 - `//` = a note to be added with the task
 
-## Author
-Created by Patrick H. Mullins [@phmullins ](https://twitter.com/phmullins).
+### Author
+Created by Patrick H. Mullins [@phmullins ](http://www.pmullins.net/aboutme/). You can find me on Telegram as @pmullins.
 
-## License
-
-Copyright (c) 2015 Patrick H. Mullins
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+### License
+Source is released under the Apache License (Version 2.0) [license](license.md).
