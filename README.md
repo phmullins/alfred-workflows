@@ -4,11 +4,11 @@ A collection of [Alfred](http://www.alfredapp.com/) workflows that I have create
 
 ## Workflows
 
-- [IBM Search](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch) - Search IBM’s Bluepages, Connections, and w3 Intranet services.
-- [New Text](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.newtext) - Create a new, empty text file in the current Finder folder.
-- [OmniFocus](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus) - Add tasks to OmniFocus for Mac.
-- [Purge](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.purge) - Force OS X to empty the trash even if files are locked or in use.
-- [Sparse](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.sparse) - Mount encrypted OS X sparse image files.
+- [IBM Search](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch.alfred) - Search IBM’s Bluepages, Connections, and w3 Intranet services.
+- [New Text](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.newtext.alfred) - Create a new, empty text file in the current Finder folder.
+- [OmniFocus](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus.alfred) - Add tasks to OmniFocus for Mac.
+- [Purge](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.purge.alfred) - Force OS X to empty the trash even if files are locked or in use.
+- [Sparse](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.sparse.alfred) - Mount encrypted OS X sparse image files.
 
 ## Author
 Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
