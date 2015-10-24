@@ -1,16 +1,16 @@
-### OmniFocus
+## OmniFocus
 
-[OmniFocus](https://www.omnigroup.com/omnifocus) is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.apple.com/osx/)
-that makes creating new OmniFocus tasks easy. This is a modified version of the [workflow](http://www.alfredforum.com/topic/1041-create-new-task-in-omnifocus-inbox/?hl=omnifocus) 
-originally found on the Afred forums. Thank you CapnAverage, Ryan M, and Orky for getting things started!
+Use Alfred to add tasks to OmniFocus for Mac.
 
-### Requirements
+## About
 
-- [Alfred](http://www.alfredapp.com/)
-- Alfred [Powerpack](http://www.alfredapp.com/powerpack/)
-- [net.pmullins.omnifocus.alfred](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus) workflow
+[OmniFocus](https://www.omnigroup.com/omnifocus) is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.apple.com/osx/) that makes creating new OmniFocus tasks easy. This is a modified version of the [workflow](http://www.alfredforum.com/topic/1041-create-new-task-in-omnifocus-inbox/?hl=omnifocus) originally found on the Afred forums. Thank you CapnAverage, Ryan M, and Orky for getting things started!
 
-### Usage
+## Requirements
+
+[Alfred](http://www.alfredapp.com/), the Alfred [Powerpack](http://www.alfredapp.com/powerpack/), and [OmniFocus](https://www.omnigroup.com/omnifocus) for Mac.
+
+## Usage
 
 Type `of` in Alfred followed by the task you would like to create.
 
@@ -27,8 +27,8 @@ Modifiers:
 - `$` = the duration of the task
 - `//` = a note to be added with the task
 
-### Author
-Created by Patrick H. Mullins [@phmullins ](http://www.pmullins.net/aboutme/). You can find me on Telegram as @pmullins.
+## Author
+Created by [Patrick H. Mullins](http://www.pmullins.net/aboutme/). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
-### License
-Source is released under the Apache License (Version 2.0) [license](license.md).
+## License
+Source is released under the MIT (Massachusetts Institute of Technology) [license](license.md).
