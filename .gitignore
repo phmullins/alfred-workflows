@@ -1,14 +1,22 @@
 # Ignore OS X system and other misc files
-.DS_Store
 
-
+net.pmullins.ibmsearch.alfred/.DS_Store
+net.pmullins.ibmsearch.alfred/assets/.DS_Store
+net.pmullins.ibmsearch.alfred/workflow/.DS_Store
 
 net.pmullins.newtext.alfred/.DS_Store
-
-.DS_Store
-
 net.pmullins.newtext.alfred/assets/.DS_Store
+net.pmullins.newtext.alfred/workflow/.DS_Store
+
+net.pmullins.omnifocus.alfred/.DS_Store
+net.pmullins.omnifocus.alfred/assets/.DS_Store
+net.pmullins.omnifocus.alfred/workflow/.DS_Store
 
 net.pmullins.purge.alfred/.DS_Store
-
 net.pmullins.purge.alfred/assets/.DS_Store
+net.pmullins.purge.alfred/workflow/.DS_Store
+
+net.pmullins.sparse.alfred/.DS_Store
+net.pmullins.sparse.alfred/assets/.DS_Store
+net.pmullins.sparse.alfred/workflow/.DS_Store
+.DS_Store

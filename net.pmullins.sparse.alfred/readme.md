@@ -15,7 +15,7 @@ Sparse Image is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https
 Type `sparse` in Alfred followed by the password of the encrypted spare image that you define in the "Run Script" section of the workflow.
 
 ## Author
-Created by [Patrick H. Mullins](http://www.pmullins.net/aboutme/). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
+Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
 ## License
 Source is released under the MIT (Massachusetts Institute of Technology) [license](license.md).

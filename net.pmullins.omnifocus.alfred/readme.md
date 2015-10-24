@@ -16,7 +16,7 @@ Type `of` in Alfred followed by the task you would like to create.
 
 Example:
 
-!["OmniFocus Workflow"](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.omnifocus/assets/alfred_omnifocus_ss.png)
+!["OmniFocus Workflow"](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.omnifocus.alfred/assets/alfred_omnifocus_ss.png)
 
 Modifiers:
 
@@ -28,7 +28,7 @@ Modifiers:
 - `//` = a note to be added with the task
 
 ## Author
-Created by [Patrick H. Mullins](http://www.pmullins.net/aboutme/). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
+Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
 ## License
 Source is released under the MIT (Massachusetts Institute of Technology) [license](license.md).
