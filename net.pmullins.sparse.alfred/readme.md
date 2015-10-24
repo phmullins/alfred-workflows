@@ -1,6 +1,6 @@
 ## Sparse Image
 
-Easily mount encrypted OS X spare image files
+Easily mount encrypted OS X spare image files.
 
 ## About
 

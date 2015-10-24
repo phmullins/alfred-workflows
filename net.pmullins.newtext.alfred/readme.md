@@ -1,6 +1,6 @@
 ## New Text
 
-Easily create a new empty text file
+Easily create a new empty text file.
 
 ## About
 

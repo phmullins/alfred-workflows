@@ -1,5 +1,5 @@
 ## Purge
-Force OS X to empty the trash can
+Force OS X to empty the trash can.
 
 ## About
 
