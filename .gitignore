@@ -1,0 +1,14 @@
+# Ignore OS X system and other misc files
+.DS_Store
+
+
+
+net.pmullins.newtext.alfred/.DS_Store
+
+.DS_Store
+
+net.pmullins.newtext.alfred/assets/.DS_Store
+
+net.pmullins.purge.alfred/.DS_Store
+
+net.pmullins.purge.alfred/assets/.DS_Store
