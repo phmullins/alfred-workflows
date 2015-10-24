@@ -11,7 +11,7 @@ Purge is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.
 
 ## Basic Usage
 
-Launch Alfred and type in `purge' followed by Enter.
+Launch Alfred and type in `purge` followed by Enter.
 
 ## Author
 Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
