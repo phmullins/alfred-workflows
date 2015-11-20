@@ -1,5 +1,5 @@
 ## Purge
-Securely delete files and force OS X to empty the trash.
+Securely erase files and force OS X to empty the trash.
 
 ## About
 
@@ -11,8 +11,8 @@ Purge is an [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.
 
 ## Basic Usage
 
-Launch Alfred and type in `purge` followed by Enter to force OS X to empty the trash.
-Launch Alfred and type in 'secure' followed by Enter to securely erase the contents of the trash can.
+- Launch Alfred and type in `purge` followed by Enter to force OS X to empty the trash.
+- Launch Alfred and type in `secure` followed by Enter to securely erase the contents of the trash can.
 
 ## Author
 Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
