@@ -4,7 +4,7 @@ Use Alfred to search IBM's Bluepages, Connections, and w3 Intranet services.
 
 ## About
 
-[IBM](https://twitter.com/IBM) Search is a simple [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.apple.com/osx/) that lets employees search for information (people, departments, etc.) using IBM's Bluepages, Connections, w3 Intranet, and services.
+[IBM](https://twitter.com/IBM) Search is a simple [Alfred](http://www.alfredapp.com/) workflow for [OS X](https://www.apple.com/osx/) that lets employees search for information (people, departments, etc.) using IBM's Bluepages, Connections, and w3 Intranet services.
 
 ## System Requirements
 
