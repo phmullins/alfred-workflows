@@ -1,4 +1,4 @@
-#### Changelog
+## Changelog
 
 0.1.1 - 2015-11-20
 - Added the ability to securely erase the contents of the trash can.
