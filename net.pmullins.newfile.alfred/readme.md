@@ -8,7 +8,7 @@ New File is an [Alfred](http://www.alfredapp.com/) workflow for [macOS](https://
 Launch Alfred and type `new`, then choose the file type that want to create followed by `Enter` to create the new file in the current Finder directory.
 
 <center>
-![New File](/assets/alfred_new_file.png)
+![New File](https://github.com/phmullins/alfred-workflows/blob/master/net.pmullins.newfile.alfred/assets/alfred_new_file.png)
 </center>
 
 #### Author
