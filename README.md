@@ -1,17 +1,18 @@
-## Introduction
+## About
 
 A collection of [Alfred](http://www.alfredapp.com/) workflows that I have created over the years.
 
-## Workflows
+#### Workflows
 
 - [IBM Search](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch.alfred) - Search IBM’s Bluepages, Connections, and w3 Intranet services.
-- [New Text](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.newtext.alfred) - Create a new, empty text file in the current Finder folder.
+- [Morning](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.morning.alfred) - Launches the applications that I need to start the day.
 - [OmniFocus](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus.alfred) - Add tasks to OmniFocus for Mac.
-- [Purge](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.purge.alfred) - Securely erase files and force OS X to empty the trash even if the files are locked or in use.
+- [Trash](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.trash.alfred) - Securely erase files and force OS X to empty the trash even if the files are locked or in use.
 - [Sparse](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.sparse.alfred) - Mount encrypted OS X sparse image files.
+- [New File](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.newfile.alfred) - Create a new, empty text file in the current Finder folder.
 
-## Author
+#### Author
 Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
-## License
-Source is released under the MIT (Massachusetts Institute of Technology) [license](license.md).
+#### License
+Source is released under the FreeBSD (BSD-2-Clause) License [license](license.md).
