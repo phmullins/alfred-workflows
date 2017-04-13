@@ -5,7 +5,7 @@
 [Alfred](http://www.alfredapp.com/), the Alfred [Powerpack](http://www.alfredapp.com/powerpack/), and a valid VPN connection to the internal IBM network
 
 ## Usage
-Type `bp`, `w3`, or `con` in Alfred, followed by whatever you want to search for.
+Type `ibmb`, `ibmi`, or `ibmc` in Alfred, followed by whatever you want to search for.
 
 ## Author
 Created by [Patrick H. Mullins](http://www.pmullins.net/about). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.

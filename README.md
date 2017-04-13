@@ -4,7 +4,7 @@ A collection of [Alfred](http://www.alfredapp.com/) workflows that I have create
 
 #### Workflows
 
-- [IBM Search](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch.alfred) - Search IBM’s Bluepages, Connections, and w3 Intranet services.
+- [IBM Search](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.ibmsearch.alfred) - Search IBM’s Bluepages, Connections, and Intranet services.
 - [Morning](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.morning.alfred) - Launches the applications that I need to start the day.
 - [OmniFocus](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.omnifocus.alfred) - Add tasks to OmniFocus for macOS.
 - [Trash](https://github.com/phmullins/alfred-workflows/tree/master/net.pmullins.trash.alfred) - Securely erase files and/or force macOS to empty the trash even if the files are locked or in use.
